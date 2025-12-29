@@ -30,7 +30,7 @@
 ---
 
 ## 🐍 GitHub Contribution Snake
-![snake gif](https://github.com/YASHWANTH KUMAR D/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/YASHWANTHKUMARD/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
