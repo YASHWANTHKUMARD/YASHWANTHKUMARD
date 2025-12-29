@@ -3,7 +3,7 @@
 <h3 align="center">Writing code like poetry — broken but beautiful 🧠</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=YASHWANTHKUMARD&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 ---
 
 ## 🧠 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma)
+![LeetCode Stats](https://leetcard.jacoblin.cool/u/5ABnBjBQiG/?theme=dark&font=Karma)
 
 ---
 
