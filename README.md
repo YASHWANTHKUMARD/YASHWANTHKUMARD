@@ -17,7 +17,8 @@
 ---
 
 ## 🧠 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/u/5ABnBjBQiG/?theme=dark&font=Karma)
+![LeetCode Stats](https://leetcard.jacoblin.cool/5ABnBjBQIG?theme=dark&font=Karma)
+
 
 ---
 
