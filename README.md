@@ -1,4 +1,40 @@
 ## Hi there 👋
+<h1 align="center">Hey 👋, I'm Yashwanth Kumar</h1>
+<h3 align="center">Writing code like poetry — broken but beautiful 🧠</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 💡 About Me
+- 🔭 I love breaking code and fixing it cooler
+- ☕ Living between logic, latte, and late nights
+- 🐧 Linux user (Kali btw 😄)
+- 📫 Reach me at: **yourmail@gmail.com**
+
+---
+
+## 🧠 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma)
+
+---
+
+## 🛠️ Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,react,nodejs,html,css,linux,git,mysql" />
+</p>
+
+---
+
+## 🐍 GitHub Contribution Snake
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📌 Pinned Projects
+⭐ Check out my repositories below 👇
 
 <!--
 **YASHWANTHKUMARD/YASHWANTHKUMARD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
