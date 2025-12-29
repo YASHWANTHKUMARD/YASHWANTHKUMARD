@@ -12,7 +12,7 @@
 - 🔭 I love breaking code and fixing it cooler
 - ☕ Living between logic, latte, and late nights
 - 🐧 Linux user (Kali btw 😄)
-- 📫 Reach me at: **yourmail@gmail.com**
+- 📫 Reach me at: **yashwanthkumard2006@gmail.com**
 
 ---
 
@@ -29,7 +29,7 @@
 ---
 
 ## 🐍 GitHub Contribution Snake
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/YASHWANTH KUMAR D/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
