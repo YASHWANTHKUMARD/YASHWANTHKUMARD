@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hey 👋, I'm Yashwanth Kumar</h1>
-<h3 align="center">Writing code like poetry — broken but beautiful 🧠</h3>
+<h3 align="center">Diving deep into tech where the World is Dark and gentle 🧠</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YASHWANTHKUMARD&label=Profile%20views&color=0e75b6&style=flat" />
