@@ -3,7 +3,7 @@
 <h3 align="center">Diving deep into tech where the World is Dark and gentle 🧠</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YASHWANTHKUMARD&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=XXXXXXXX&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -12,12 +12,12 @@
 - 🔭 I love breaking code and fixing it cooler
 - ☕ Living between logic, latte, and late nights
 - 🐧 Linux user (Kali btw 😄)
-- 📫 Reach me at: **yashwanthkumard2006@gmail.com**
+- 📫 Reach me at: **XXXXXXXXX**
 
 ---
 
 ## 🧠 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/YASHWANTH KUMAR D?theme=dark&font=Karma)
+![LeetCode Stats](https://leetcard.jacoblin.cool/XXXXXXXXXXXX?theme=dark&font=Karma)
 
 
 ---
