@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">Hey 👋, I'm dam-321</h1>
+<h1 align="center">Hey 👋, I'm YASHWANTH KUMAR D</h1>
 <h3 align="center">Diving deep into tech where the World is Dark and gentle 🧠</h3>
 
 <p align="center">
