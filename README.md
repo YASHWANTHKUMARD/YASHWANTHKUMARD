@@ -11,27 +11,13 @@
 ## 💡 About Me
 - 🔭 I love breaking code and fixing it cooler
 - ☕ Living between logic, latte, and late nights
-- 🐧 Linux user (Kali btw 😄)
-- 📫 Reach me at: **XXXXXXXXX**
-
----
-
-## 🧠 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/XXXXXXXXXXXX?theme=dark&font=Karma)
-
-
----
+- 🐧Enriching myself with the grace of Tech
+- 📫 Reach me at: **yashwanthkumard2006@gmail.com**
 
 ## 🛠️ Languages & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,react,nodejs,html,css,linux,git,mysql" />
 </p>
-
----
-
-## 🐍 GitHub Contribution Snake
-![snake gif](https://github.com/YASHWANTHKUMARD/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 📌 Pinned Projects
